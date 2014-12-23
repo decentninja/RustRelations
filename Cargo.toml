@@ -1,0 +1,5 @@
+[package]
+
+name = "RustRelations"
+version = "0.0.1"
+authors = ["sootn <encrypt.wave@gmail.com>"]
